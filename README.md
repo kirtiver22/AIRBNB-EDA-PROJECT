@@ -1,13 +1,63 @@
 # AIRBNB-EDA-PROJECT 
+🏡 Airbnb Data Analysis (EDA Project)
 
-Summary of this Project-
+📌 Project Overview
 
+This project focuses on performing Exploratory Data Analysis (EDA) on an Airbnb dataset to uncover key insights related to pricing, availability, and customer behavior.
 
-Airbnb is an online marketplace that connects people who want to rent out their homes with people who are looking for accommodations in that locale. It currently covers more than 100,000 cities and 220 countries worldwide. For hosts, it's a way to earn money while protecting their property from potential damage. However, for guests, it's a risky venture that they should avoid.
+The goal is to transform raw data into meaningful insights that can help in business decision-making.
 
-For this project we are analyzing Airbnb’s New York City(NYC) data of 2019. NYC is not only the most famous city in the world but also top global destination for visitors drawn to its museums, entertainment, restaurants and commerce. According to the Office of New York State Comptroller, NYC hosted 66.6 million visitors in 2019.
+---
 
-Data analysis on thousands of listings provided through Airbnb is a crucial factor for the company. Our main objective is to find out the key metrics that influence the listing of properties on the platform. For this, we will explore and visualize the dataset from Airbnb in NYC using basic exploratory data analysis (EDA) techniques. We have found out the distribution of every Airbnb listing based on their location, including their price range, room type, listing name, and other related factors. We have analyzed this dataset from different angles and have come up with interesting insights. This can help in making strategic data-driven decisions by the marketing team, finance team and technical team of Airbnb.
+📊 Dataset Information
+
+- Dataset contains ~50,000 Airbnb listings
+- Features include:
+  - Price
+  - Location
+  - Room Type
+  - Availability
+  - Reviews
+
+---
+
+🛠️ Tools & Technologies Used
+
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Jupyter Notebook
+
+---
+
+🔍 Key Analysis Performed
+
+- Data Cleaning (handling missing values, duplicates)
+- Price distribution analysis
+- Location-based pricing insights
+- Availability trends
+- Correlation analysis
+
+---
+
+📈 Key Insights
+
+- Entire homes/apartments have higher pricing compared to shared rooms
+- Certain locations have significantly higher demand and pricing
+- Availability impacts pricing trends
+- Reviews influence booking behavior
+
+---
+
+🔗 Project Link
+
+GitHub Repository: https://github.com/kirtiver22/AIRBNB-EDA-PROJECT
+
+---
+
+🚀 Conclusion
+
+This project demonstrates how raw data can be transformed into actionable insights using Python and data visualization techniques.
 
 
 ![airbnbimg](https://github.com/kirtiver22/AIRBNB-EDA-PROJECT/assets/150126414/d2d771fd-8641-455b-9253-b9fb13ebfbf4)
