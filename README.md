@@ -1,6 +1,8 @@
-🏡 Airbnb Data Analysis
+
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
+
+🏡 Airbnb Data Analysis
 About the Project
 
 In this project, I explored an Airbnb dataset to understand how different factors like location, room type, and availability affect pricing and bookings.
